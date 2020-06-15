@@ -50,3 +50,9 @@ flowart,Lynne,Cumberpatch ,445622
 geronimo42,Stuart,Wharton,423686
 3no trump,Paul,Sweet,456715
 lesleyruth,Lesley,Sweet,480509
+davecobley,Dave,Cobley,100551
+suecobley,Sue,Cobley,437041
+lemmings7,Stephen,Lemmings,111682
+tillers,David,Tillcock,483190
+lezmb,Michael,Bleaney,114148
+richdal,Richard,Dale,497437
