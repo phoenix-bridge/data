@@ -45,7 +45,7 @@ sturat,Stuart,Sharp,404520
 suitegg,Chris,Frost,404649
 zippysyl,Sylvia,Goodlud,401210
 desair80,Desmond,Airey ,444270
-med27,Mary,Dade,455357
+med27,Mary,Dade,438382 
 flowart,Lynne,Cumberpatch ,445622
 geronimo42,Stuart,Wharton,423686
 3no trump,Paul,Sweet,456715
